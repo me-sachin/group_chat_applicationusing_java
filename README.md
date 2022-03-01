@@ -1,5 +1,5 @@
 # group_chat_applicationusing_java
-group chat application by using java . we can communicate with many people at the same time and make different groups for chatting
+group chat application by using java. we can communicate with many people at the same time and make different groups for chatting
 The server screen -:
 
 ![88888](https://user-images.githubusercontent.com/68479220/155333130-00c22f48-1e61-47b6-bb9d-6f14ff9d7a75.png)
